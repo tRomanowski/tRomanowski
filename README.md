@@ -1,9 +1,6 @@
 ### Hi there, I'm Tim! 👋
 
-🔭 I'm a student at [neue Fische Gmbh](https://www.neuefische.de) and I want to become a web developer.
-
-🌱 I'm currently learning HTML, CSS, JS and React
-
+🔭 I'm a junior Front-End Software Engineer from Leipzig. 
 
 [![tRomanowski's github stats](https://github-readme-stats.vercel.app/api?username=tRomanowski)](https://github.com/anuraghazra/github-readme-stats)
 
